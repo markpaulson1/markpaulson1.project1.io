@@ -1,9 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,200,700);
 
 
-
-
-
 body{
 	background: #171814;
   margin-left: 40px;
@@ -20,36 +17,26 @@ h2{
 
 header{
 	text-align: center;
-
-	
 	background: #171814;
 	width: 1000px;
-
 }
 
-
 .boxHead{
-
 	font-family: 'Yanone Kaffeesatz';
 	font-size: 40px;
 	color: #FFFFFF;
 	text-align: center;
-
   margin-top: 0;
-
 }
 
 .boxHead2{
-
   font-family: 'Yanone Kaffeesatz';
   font-size: 40px;
   color: white;
-margin-left: 700px;
-color: #FFFFFF;
+  margin-left: 700px;
+  color: #FFFFFF;
   margin-top: 0;
-
 }
-
 
 .receipt-window{
 	float: left;
@@ -62,7 +49,6 @@ color: #FFFFFF;
 .menu-window{
   margin-left: auto;
   margin-right: auto;
-
 }
 
 
@@ -70,7 +56,6 @@ color: #FFFFFF;
 	list-style-type: none;
   margin-left: 400px;
   margin-right: auto;
-
 }
 
 .button{
@@ -88,18 +73,15 @@ color: #FFFFFF;
   border-right: black;
   background-color: #171814;
   outline-color: red;
-
 }
 
 .logo{
-margin: 0;
-padding-top: 15px;
- width: 55%;
+  margin: 0;
+  padding-top: 15px;
+  width: 55%;
 }
 
-
 #receipt{
-
   list-style-type: none;
   height: 300px;
   width: 400px;
@@ -112,7 +94,7 @@ padding-top: 15px;
   padding-left: 5px;
 }
 
-  #total {
+#total {
   border-color: white;
   height: 40px;
   width: 400px;
@@ -151,10 +133,9 @@ padding-top: 15px;
   padding-left: 5px;
 }
 
-
 .containter {
-margin: auto;
-padding-left: 10px;
+  margin: auto;
+  padding-left: 10px;
 }
 
 
